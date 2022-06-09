@@ -100,7 +100,21 @@ error_reporting(E_ALL);
     <!-- /main -->
 
     <!-- footer -->
-    <footer></footer>
+    <footer>
+        <div class="footer-container">
+            <ul class="footer-menu">
+                <li><a href=""></a>Google</li>
+                <li><a href=""></a>Tutto su Google</li>
+                <li><a href=""></a>Privacy</li>
+                <li><a href=""></a>Termini</li>
+            </ul>
+            <div class="footer-option">
+                <select name="" id="">
+                    <option value="">Italiano</option>
+                </select>
+            </div>
+        </div>
+    </footer>
     <!-- /footer -->
 </body>
 </html>
