@@ -3,3 +3,41 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: "Roboto",sans-serif;
+    color: rgba(0,0,0,.87);
+}
+
+/* COMMON */
+ol ul li {
+    list-style: none;
+}
+
+li {
+    padding-left: 1rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    padding-top: 5rem;
+}
+
+p {
+    margin: 2rem 0;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.5rem;
+}
+
+h2,
+h3 {
+    font-family: 'Red Hat Display', sans-serif;
+    color: #3c4043;
+    font-weight: 500;
+}
